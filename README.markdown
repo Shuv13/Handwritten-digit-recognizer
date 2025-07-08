@@ -31,7 +31,7 @@ A simple deep learning project that uses a Convolutional Neural Network (CNN) to
 ### 1. Clone the repository (or create a project folder)
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Shuv13/Handwritten-digit-recognizer.git
 cd handwritten-digit-recognizer
 ```
 
